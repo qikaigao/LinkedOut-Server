@@ -22,3 +22,6 @@ router.post('/register', function (req, res, next) {//callback函数
 
 
 module.exports = router;
+
+
+// npm install --save mongoose blueimp-md5
